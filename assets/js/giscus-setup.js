@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "SC-State/cees.github.io",
+    "data-repo": "SC-State/cees",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
